@@ -36,7 +36,7 @@ Bank of Ibrahim is a Python-based banking application that allows users to manag
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/IbrahimAllMamun/Bank-of-Ibrahim.git
    cd Bank-of-Ibrahim
    ```
 2. Install dependencies:
